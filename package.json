@@ -1,0 +1,21 @@
+{
+  "name": "pf03-tdd-node-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NexterDeveloper/pf03-tdd-node-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/NexterDeveloper/pf03-tdd-node-ci/issues"
+  },
+  "homepage": "https://github.com/NexterDeveloper/pf03-tdd-node-ci#readme"
+}
